@@ -193,6 +193,19 @@ Exam dates: Jan 31 6:00PM - Lab
 * Inheritance, Overloading, & Overriding
 
 
+### Class 6 (Feb 6-10)
+
+* Create teams (Class groups) - 4 members randomly
+
+#### Web development with Java
+* Introduction to Web: Browsers, Servers and the Wire
+* Introduction to Maven
+* Introduction to Spark 
+
+#### Lab
+* First project with Maven for Spark -> "Hello World" example
+* Add Freemarker template -> Simple Bindings and CSS
+
 ## Pairing Tips
 
 * Three people is possible, but two works best
