@@ -24,12 +24,14 @@
 * Junrie Estanol
 * Reyna Edralin
 * Jade Mark Gevero
+* Xyrah Magallanes
 
 # Group 5 - Javastated
 * May Hope Rato
 * Renalyn Duron
 * Djanie Jadman
 * Ericah Joyz Gerapusco
+* Dan Francis Enriquez
 
 # Group 6 - Aja
 * Angela Cagas
