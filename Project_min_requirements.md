@@ -42,6 +42,9 @@ and designers that are my co-workers. They will only give a pass or fail mark ba
 on the following guidelines.
 
 a. Is the web app working?
+
 b. Are all the minimum features present?
+
 c. Are the features working as expected?
+
 d. Is the presentation (or explanation) coherrent?
