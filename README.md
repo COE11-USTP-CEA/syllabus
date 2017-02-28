@@ -311,8 +311,8 @@ Exam dates: Jan 31 6:00PM - Lab
 
 ## Grading
 
-* Assignment/Labwork – 40%
-* Periodical Exam - 60% 
+* Assignment/Labwork – 50%
+* Periodical Exam - 50% 
 
 ## Statements on Plagiarism
 
