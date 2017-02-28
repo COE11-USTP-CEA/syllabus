@@ -206,6 +206,60 @@ Exam dates: Jan 31 6:00PM - Lab
 * First project with Maven for Spark -> "Hello World" example
 * Add Freemarker template -> Simple Bindings and CSS
 
+### Class 7 (Feb 13-17)
+
+* Working with SparkJava
+* Introduce the concept of MVC
+* Project minimum requirements 
+
+#### Lab
+* SparkJava and MVC basics
+* Create the landing page (Graded activity)
+
+### Class 8 (Feb 20-24)
+
+* Working with SparkJava Forms
+
+#### Lab
+* Working with SparkJava Forms
+* Implement the /create page with a Form and Submit functionality (Graded activity)
+
+### Class 9 (Feb 27-March 3)
+
+* Freemarker presentation logic
+
+#### Lab
+* Freemarker basic checks and loop
+* Implement the "show detail" page with Edit functionality (Graded activity)
+
+### Class 9 (March 6-10)
+
+* Creating url slugs for items
+* A thought on Models
+
+#### Lab
+* Java hash or random number generator slugs
+* Implement the delete a delete function (Graded activity)
+
+### Class 10 (March 13-17)
+
+* Advance topics to explorer
+* Quick and dirty intro to databases
+
+#### Lab
+* Last lab session for projects - troubleshooting/advice
+
+### Class 11 (March 20-24)
+
+* First round of Final Project Defense - Top 4 & Bottom 4
+* Date, time and venue will be set later
+
+### Class 12 (March 27-31)
+
+* Second round of Final Project Defense - Bottom 4 only
+* Date, time and venue will be set later
+
+
 ## Pairing Tips
 
 * Three people is possible, but two works best
