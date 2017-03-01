@@ -231,6 +231,8 @@ Exam dates: Jan 31 6:00PM - Lab
 #### Lab
 * Freemarker basic checks and loop
 * Implement the "show detail" page with Edit functionality (Graded activity)
+  
+Note:  Due to the lateness of "sequence" branch for the sample code in the demospark repo, I'm moving the deadline of the activity to Sat (March 4,2017) 11:59PM
 
 ### Class 9 (March 6-10)
 
