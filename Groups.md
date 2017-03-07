@@ -38,12 +38,14 @@
 * Jefford Andoy
 * Athena Abella
 * Wave Ambray
+* Jan Lemerson Cutab
 
 # Group 7 - TeamPossible
 * Dan Baconga
 * Melow Jean Tau-anon
 * Royd Macapagal
 * Jerome Edward Venoya
+* Cristine Bannister
 
 # Group 8 - KDWorld
 * Kimberly Migrino

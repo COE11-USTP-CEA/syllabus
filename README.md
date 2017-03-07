@@ -236,11 +236,12 @@ Note:  Due to the lateness of "sequence" branch for the sample code in the demos
 
 ### Class 9 (March 6-10)
 
-* Creating url slugs for items
+* Creating url for items
 * A thought on Models
 
 #### Lab
-* Java hash or random number generator slugs
+* SparkJava routes with params
+* Using the java.util.ArrayList.remove(Object) method
 * Implement the delete a delete function (Graded activity)
 
 ### Class 10 (March 13-17)
