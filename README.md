@@ -250,6 +250,7 @@ Note:  Due to the lateness of "sequence" branch for the sample code in the demos
 * Quick and dirty intro to databases
 
 #### Lab
+* Quick and dirty intro to databases
 * Last lab session for projects - troubleshooting/advice
 
 ### Class 11 (March 20-24)
