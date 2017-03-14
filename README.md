@@ -255,12 +255,12 @@ Note:  Due to the lateness of "sequence" branch for the sample code in the demos
 
 ### Class 11 (March 20-24)
 
-* First round of Final Project Defense - Top 4 & Bottom 4
-* Date, time and venue will be set later
+* Evaluation of Final Projects
+* March 21, 2017 6pm-9pm Lab
 
 ### Class 12 (March 27-31)
 
-* Second round of Final Project Defense - Bottom 4 only
+* Final Project Defense (for projects that were not excempted)
 * Date, time and venue will be set later
 
 
