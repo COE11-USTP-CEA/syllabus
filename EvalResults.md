@@ -1,34 +1,34 @@
-#Project Evaluations
+# Project Evaluations
 
-##Javadings 
+## Javadings 
 - Complete
 - Silent errors on console
 		  
-##Javatronics 
+## Javatronics 
 - Not running
 
-##Passible 
+## Passible 
 - Missing landing page
 - Minor styling problems
 - Silent error on console
 		 
-##Cyberspecialist 
+## Cyberspecialist 
 - Missing list page, Missing delete feature
 - minor styling problems
 - Silent error on console
 				
-##Javastated - Exempted
+## Javastated - Exempted
 - Complete
 - extra page for about
 
-##Javawakeez 
+## Javawakeez 
 - Error on list feature, missing delete, edit is missing (404)
 - minor styling problem - about page MUST scroll to see content
 		   
-##KDWorld 
+## KDWorld 
 - Not running
 
-##Aja 
+## Aja 
 - Nope! missing the edit function
 - Extra: Login page, clickable social links
 - Minor styling, delete button not clickable on page 
