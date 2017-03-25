@@ -260,8 +260,9 @@ Note:  Due to the lateness of "sequence" branch for the sample code in the demos
 
 ### Class 12 (March 27-31)
 
-* Final Project Defense (for projects that were not excempted)
-* Date, time and venue will be set later
+* ~~Final Project Defense (for projects that were not excempted)~~
+* Due to the projects being not good enough, I've decided against a panel defense/presentation
+* I've decided on a Written exam for the Finals instead.
 
 
 ## Pairing Tips

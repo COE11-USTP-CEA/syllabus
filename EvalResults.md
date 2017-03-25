@@ -18,7 +18,7 @@
 - Silent error on console
 				
 ## Javastated - Exempted
-- Complete
+- Nope! also missing the edit function
 - extra page for about
 
 ## Javawakeez 
